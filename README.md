@@ -1,6 +1,7 @@
+<img src="https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg" />
 <h1 align="center">Hi 👋, I'm Sunita Sabale</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
-<img src="https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg" />
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
