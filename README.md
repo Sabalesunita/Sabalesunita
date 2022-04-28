@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunita Sabale</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
-
+<img src="https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg" />
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sunita-sabale-009085113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sunita-sabale-009085113" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunita-sabale-009085113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sunita-sabale-009085113" height="30" width="40" /></a>
 <a href="https://fb.com/suneeta sabale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suneeta sabale" height="30" width="40" /></a>
 <a href="https://medium.com/@sabalesunita210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabalesunita210" height="30" width="40" /></a>
 </p>
