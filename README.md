@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sabalesunita210@gmail.com**
 
-- All of my projects are available at **[https://Sabalesunita.github.io](https://github.com/Sabalesunita/Sabalesunita.github.io)**
+- All of my projects are available at **https://github.com/Sabalesunita/Sabalesunita.github.io**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L6zrPNGZlGZU--EnuL1CoT1Q3jazTDaJ/view](https://drive.google.com/file/d/1L6zrPNGZlGZU--EnuL1CoT1Q3jazTDaJ/view)
 
 - ⚡ Fun fact **I like to play chess and listening to music.**
